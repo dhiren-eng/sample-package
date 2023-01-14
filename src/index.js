@@ -1,3 +1,3 @@
 export const hi = () => {
-    console.log('hello')
+    console.log('hello1')
 }
